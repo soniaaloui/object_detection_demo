@@ -1,0 +1,74 @@
+<annotation>
+  <folder>data</folder>
+  <filename>30</filename>
+  <path>C:/Users/saloui/Desktop/data/30.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>olive noir</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>203</xmin>
+      <ymin>385</ymin>
+      <xmax>273</xmax>
+      <ymax>443</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>olive noir</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>478</xmin>
+      <ymin>468</ymin>
+      <xmax>547</xmax>
+      <ymax>536</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>olive noir</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>714</xmin>
+      <ymin>248</ymin>
+      <xmax>777</xmax>
+      <ymax>302</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>olive noir</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>569</xmin>
+      <ymin>47</ymin>
+      <xmax>618</xmax>
+      <ymax>84</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>olive noir</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>103</xmin>
+      <ymin>144</ymin>
+      <xmax>166</xmax>
+      <ymax>188</ymax>
+    </bndbox>
+  </object>
+</annotation>
